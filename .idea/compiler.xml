@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fastdfs-client-java" />
         <module name="gmall-bean" />
         <module name="gmall-cart-service" />
         <module name="gmall-cart-web" />
